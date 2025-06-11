@@ -1,1 +1,2 @@
 Autocomplete for PowerShell
+# match the style used in the rest of the module
