@@ -12,3 +12,4 @@ Notes and usage details for PowerType.
 - clarify the setup steps
 - clarify the setup steps
 - clarify the setup steps
+- clarify the setup steps
